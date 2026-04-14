@@ -3,10 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-h2 {
-    color: #00ffcc;
-    font-family: 'Courier New', monospace;
-}
+
+
+
 html,
 body {
     width: 100%;
@@ -33,12 +32,6 @@ body {
     100% {
         background-position: 0% 50%;
     }
-}
-
-a {
-    color: #00ffcc;
-    text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 #startScreen {
@@ -177,6 +170,17 @@ video {
 
 .cv-container ul li {
     padding-bottom: 3%;
+}
+
+h2 {
+    color: #00ffcc;
+    font-family: 'Courier New', monospace;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 .left,
